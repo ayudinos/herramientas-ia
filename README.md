@@ -604,6 +604,7 @@ Table of Contents
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API
   * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
   * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task
+  * [toolpipe.dev](https://toolpipe.dev) — Free developer utility APIs with 70+ endpoints for QR codes, JSON formatting, text analysis, PDF processing, UUID generation, hash generation, and more. No auth required for free tier
   * [mashape.com](https://www.mashape.com/) — API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support
   * [dominodatalab.com](https://www.dominodatalab.com) — Data science with support for Python, R, Spark, Hadoop, Matlab and others
   * [havenondemand.com](https://www.havenondemand.com) — APIs for machine learning

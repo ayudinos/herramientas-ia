@@ -1,7 +1,11 @@
 # 🛠️ Buscador Maestro de Herramientas para Desarrolladores
 
+> ℹ️ **Nota sobre el proyecto:** Este buscador es un **fork** (una versión derivada y traducida) del increíble proyecto original [free-for-dev](https://github.com/ripienaar/free-for-dev) de R. Pienaar. Mi objetivo es facilitar el acceso a estos recursos a la comunidad hispanohablante.
+
 Bienvenido al catálogo completo. Usa la barra de búsqueda para encontrar cualquier servicio gratuito por nombre o categoría.
-[Ir al Final](#-visualización-de-datos-y-dashboards)
+
+[⬇️ Ir al Final de la página](#final)
+
 ---
 
 ## ☁️ Proveedores de Nube (Cloud)
@@ -169,3 +173,7 @@ Has construido un **Buscador de Herramientas IA** profesional.
 1. **Actualiza:** Si descubres una herramienta nueva, solo añade una línea con el formato `* **[Nombre](URL)**: Descripción`.
 2. **Personaliza:** Puedes cambiar los colores en el `index.html` editando el tema de Docsify.
 3. **Comparte:** Tu enlace ya es público: `https://ayudinos.github.io/herramientas-ia/`
+
+<a id="final"></a>
+## 🏁 Fin del catálogo
+*Gracias por usar el buscador. Si te ha servido, ¡compártelo!*

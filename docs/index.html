@@ -12,17 +12,15 @@
   <script>
     window.$docsify = {
       name: 'Herramientas Dev IA',
-      homepage: 'index.md', // <-- AÑADE ESTA LÍNEA PARA EVITAR EL ERROR 404
-      repo: '',
-      loadSidebar: false,
-      subMaxLevel: 2,
-      // CONFIGURACIÓN DEL BUSCADOR
+      homepage: 'index.md',
+      externalLinkTarget: '_blank', // Esto obliga a abrir enlaces en pestañas nuevas
       search: {
         maxAge: 86400000,
         paths: 'auto',
         placeholder: '🔍 Escribe para buscar...',
         noData: 'No hay resultados',
-        depth: 6
+        depth: 6,
+        hideOtherSidebarContent: false
       }
     }
   </script>
